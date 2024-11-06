@@ -11,6 +11,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yonugy&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yonugy&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yonugy&theme=github)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yonugy&color=blueviolet)
