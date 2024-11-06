@@ -5,11 +5,11 @@
 - 👨‍🏫 I am currently working as a part-time coding instructor 
 - 📧 How to reach me: [yongwaichong@gmail.com](mailto:yongwaichong@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonugy&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonugy&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonugy&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonugy&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yonugy&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yonugy&theme=dark)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yonugy&theme=react-dark)
 
