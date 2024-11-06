@@ -23,7 +23,7 @@
 </a>
 
 <td colspan="0" align="center">
-  <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=kavicastelo&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api/wakatime?username=Yonugy&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </td>
 
 <a href="https://github.com/yonugy/github-readme-activity-graph"><img alt="Yong Wai's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yonugy&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
