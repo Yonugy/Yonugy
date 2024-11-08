@@ -5,7 +5,6 @@
 - 👨‍🏫 I am currently working as a part-time coding instructor 
 - 📧 How to reach me: [yongwaichong@gmail.com](mailto:yongwaichong@gmail.com)
 
-<br><br>
 ![](https://github-profile-trophy.vercel.app/?username=yonugy&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
 
 <p>
