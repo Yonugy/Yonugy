@@ -1,6 +1,7 @@
 ## Hello there, I am Yong Wai 👋
 
-- 💻 I love trying different programming languages and projects 
+- 💻 I love trying different programming languages and projects
+- ⚙️ I like to buy electronic parts such as motors, sensors and connectors to test out new project ideas 
 - 🏫 I am currently a student at Asia Pacific University (APU) 
 - 👨‍🏫 I am currently working as a part-time coding instructor 
 - 📧 How to reach me: [yongwaichong@gmail.com](mailto:yongwaichong@gmail.com)
