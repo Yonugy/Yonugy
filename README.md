@@ -21,7 +21,6 @@
 </p>
 
 <div>
-  <img src="https://streak-stats.demolab.com/?user=yonugy&theme=dark&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yonugy&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </div>
 
