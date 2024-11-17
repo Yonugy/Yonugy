@@ -21,6 +21,7 @@
 </p>
 
 <div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonugy&theme=transparent&hide_border=true"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yonugy&layout=compact&theme=transparent&show_icons=true&hide_border=true&border_radius=0"/>
 </div>
 
