@@ -10,13 +10,13 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonugy&theme=dark&layout=compact&hide_border=true&border_radius=7.5"/>
+    <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonugy&theme=transparent&layout=compact&hide_border=true"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=left src="https://github-readme-stats.vercel.app/api?username=yonugy&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
+    <img align=left src="https://github-readme-stats.vercel.app/api?username=yonugy&theme=transparent&show_icons=true&hide_border=true"/>
   </a>
 </p>
 
