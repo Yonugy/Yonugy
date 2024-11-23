@@ -31,8 +31,8 @@
 <img src="https://komarev.com/ghpvc/?username=yonugy&color=blueviolet" style="vertical-align: top;">
 
 <p>
-  <img src="https://github.com/user-attachments/assets/8c4e9ae0-8c11-4179-8802-0d3b650a0c8c" alt="Thinking" height="350px"/>
-  <img src="https://media1.tenor.com/m/xRF_8aickxwAAAAd/silly-cat-silly-car.gif" alt="Cat Stare" height="350px"/>
+  <img src="https://github.com/user-attachments/assets/8c4e9ae0-8c11-4179-8802-0d3b650a0c8c" alt="Thinking" height="300px"/>
+  <img src="https://media1.tenor.com/m/xRF_8aickxwAAAAd/silly-cat-silly-car.gif" alt="Cat Stare" height="300px"/>
 </p>
 
 
