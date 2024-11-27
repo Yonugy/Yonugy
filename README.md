@@ -1,4 +1,4 @@
-## Hello there, I am Yong Wai 👋
+## Hello there! I am Yong Wai 👋
 
 - 💻 I love trying different programming languages and projects
 - ⚙️ I like to buy electronic parts such as motors, sensors and connectors to test out new project ideas 
